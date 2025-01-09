@@ -3,6 +3,8 @@ import PyPDF2
 import ollama
 from io import StringIO
 
+
+
 # Function to extract text from PDF
 def extract_text_from_pdf(pdf_file):
     pdf_reader = PyPDF2.PdfReader(pdf_file)
