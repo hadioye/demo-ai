@@ -1,0 +1,6 @@
+streamlit==1.32.0
+PyPDF2==3.0.1
+transformers==4.35.0
+datasets==2.15.0
+sentencepiece==0.1.99
+faiss-cpu==1.7.4
